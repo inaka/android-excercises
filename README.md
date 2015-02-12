@@ -20,4 +20,8 @@ La galería de imagenes puede ser una simple lista/grilla de thumbnails. Al sele
 1) Se admite el uso de librerías externas que se consideren adecuadas para cualquier parte de la app.
 2) Durante el desarrollo, siga el mismo procedimiento que harias para el desarrollo de una app real.
 
+# Entregables
+1) Enviar el ejercicio como un PR en este mismo repo.
+2) Adjuntar el APK y de ser necesario, cualquier comentario extra sobre las decisiones tomadas en el código.
+
 Gracias por su tiempo.
