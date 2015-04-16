@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="net.inaka.Flickr.geoFlickr.activities.MainActivity">
+    <item
+        android:id="@+id/action_toggle_service"
+        android:title="@string/menu_service_stop"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>
