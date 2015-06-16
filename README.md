@@ -25,3 +25,6 @@ La galería de imagenes puede ser una simple lista/grilla de thumbnails. Al sele
 2. Adjuntar el APK y de ser necesario, cualquier comentario extra sobre las decisiones tomadas en el código.
 
 Gracias por su tiempo.
+
+#Release
+1. APK: https://github.com/griveroa/android-excercises/blob/master/app/GeoFlickr.apk

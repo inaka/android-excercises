@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Geo Flickr</string>
+
+    <string name="menu_service_start">Iniciar Servicio</string>
+    <string name="menu_service_stop">Detener Servicio</string>
+    <string name="aciton_view_map">Ver Mapa</string>
+
+    <string name="text_photo_title">[Título]</string>
+    <string name="text_service_started">Servicio iniciado...</string>
+    <string name="text_service_stopped">Servicio detenido...</string>
+
+    <string name="text_status">Actualizando...</string>
+    <string name="text_no_records_found">No se encontraron registros...</string>
+
+    <string name="google_maps_key">AIzaSyC_Euyzth-ytUt45bg3R3dXc7724xa5Wpg</string>
+</resources>
