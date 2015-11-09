@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Flickr Inaka</string>
+    <string name="action_map">Vista Mapa</string>
+    <string name="no_title">Titulo no disponible</string>
+    <string name="title_activity_photo_detail">PhotoDetail</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="alert_dialog_ok">Aceptar</string>
+    <string name="alert_dialog_cancel">Cancelar</string>
+    <string name="alert_dialog_config">Ajustes</string>
+
+    <string name="active_location">FlickrInaka Necesita acceder a tu ubicacion, Por favor activa los servicios de ubicacion</string>
+    <string name="mapa_no_data">No hay data disponible para mostrar en el mapa</string>
+    <string name="network_error">Ha ocurrido un error de conexion</string>
+    <string name="gallery_updated">La Galeria de fotos ha sido actualizada</string>
+    <string name="atention">Atencion</string>
+    <string name="new_content">Hay nuevo contenido para mostrar!, presione cancelar para mantenerse en el contenido actual, aceptar para ver el nuevo</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
